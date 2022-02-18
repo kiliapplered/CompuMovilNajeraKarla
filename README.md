@@ -1,2 +1,2 @@
 # CompuMovilNajeraKarla
-Repositorio para Cómputo Movil
+Repositorio para la asignatura de Cómputo Movil
